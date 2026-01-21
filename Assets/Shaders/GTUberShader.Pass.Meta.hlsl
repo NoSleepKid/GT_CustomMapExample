@@ -10,7 +10,7 @@
 #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/BRDF.hlsl"
 
 #include "GTUberShader.Common.hlsl"
-#include "GTUberShader.Cbuffer.hlsl"
+#include "GTUberShader.CBuffer.hlsl"
 
 DECLARE_ATLASABLE_TEX2D(_BaseMap);
 DECLARE_ATLASABLE_SAMPLER(sampler_BaseMap);
